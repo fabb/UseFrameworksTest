@@ -1,5 +1,6 @@
 #import <UIKit/UIKit.h>
 #import <XCTest/XCTest.h>
+#import "ViewController.h"
 
 @interface UseFrameworksTestTests : XCTestCase
 
