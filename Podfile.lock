@@ -1,0 +1,13 @@
+PODS:
+  - Kiwi (2.3.1)
+  - Reachability (3.2)
+
+DEPENDENCIES:
+  - Kiwi (= 2.3.1)
+  - Reachability (= 3.2)
+
+SPEC CHECKSUMS:
+  Kiwi: 73e1400209055ee9c8ba78c6012b6b642d0fb9f7
+  Reachability: 1ef8adf5c4e3d362f96515d4278f68dad3c26930
+
+COCOAPODS: 0.36.0.rc.1
