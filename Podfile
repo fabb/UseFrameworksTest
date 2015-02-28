@@ -7,6 +7,7 @@ target 'UseFrameworksTest' do
 end
 
 target 'UseFrameworksTestTests' do
+	use_frameworks!
 	pod 'Kiwi', '2.3.1'
 end
 
