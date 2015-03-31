@@ -7,7 +7,7 @@ DEPENDENCIES:
   - Reachability (= 3.2)
 
 SPEC CHECKSUMS:
-  Kiwi: 73e1400209055ee9c8ba78c6012b6b642d0fb9f7
-  Reachability: 1ef8adf5c4e3d362f96515d4278f68dad3c26930
+  Kiwi: f038a6c61f7a9e4d7766bff5717aa3b3fdb75f55
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
 
-COCOAPODS: 0.36.0.rc.1
+COCOAPODS: 0.36.1
